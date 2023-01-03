@@ -1,0 +1,2 @@
+add_library(dependency INTERFACE)
+target_include_directories(dependency INTERFACE include)
